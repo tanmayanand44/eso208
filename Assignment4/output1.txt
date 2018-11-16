@@ -1,0 +1,40 @@
+
+ temperature is: 5.011927
+
+ temperature is: 4.993374
+
+ temperature is: 4.945694
+
+ temperature is: 4.870414
+
+ temperature is: 4.769265
+
+ temperature is: 4.644203
+
+ temperature is: 4.497438
+
+ temperature is: 4.331469
+
+ temperature is: 4.149117
+
+ temperature is: 3.953566
+
+ temperature is: 3.748409
+
+ temperature is: 3.537697
+
+ temperature is: 3.325997
+
+ temperature is: 3.118458
+
+ temperature is: 2.920879
+
+ temperature is: 2.739788
+
+ temperature is: 2.582539
+
+ temperature is: 2.457402
+
+ temperature is: 2.373687
+
+ temperature is: 2.341858

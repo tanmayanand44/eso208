@@ -1,0 +1,8 @@
+
+power method output: eigen value is: 5.302776
+
+power method output: eigen value is: 3.618034
+
+power method output: eigen value is: 1.697222
+
+power method output: eigen value is: 1.381969

@@ -1,0 +1,8 @@
+
+ output: solution is: -1.933333
+
+ output: solution is: -0.866667
+
+ output: solution is: -0.533333
+
+ output: solution is: 0.733333

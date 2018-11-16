@@ -1,0 +1,4000 @@
+
+ temperature is: 5.000279
+
+ temperature is: 5.000554
+
+ temperature is: 5.000826
+
+ temperature is: 5.001095
+
+ temperature is: 5.001361
+
+ temperature is: 5.001624
+
+ temperature is: 5.001884
+
+ temperature is: 5.002140
+
+ temperature is: 5.002394
+
+ temperature is: 5.002644
+
+ temperature is: 5.002891
+
+ temperature is: 5.003135
+
+ temperature is: 5.003375
+
+ temperature is: 5.003613
+
+ temperature is: 5.003847
+
+ temperature is: 5.004079
+
+ temperature is: 5.004307
+
+ temperature is: 5.004532
+
+ temperature is: 5.004754
+
+ temperature is: 5.004973
+
+ temperature is: 5.005188
+
+ temperature is: 5.005401
+
+ temperature is: 5.005610
+
+ temperature is: 5.005816
+
+ temperature is: 5.006019
+
+ temperature is: 5.006219
+
+ temperature is: 5.006416
+
+ temperature is: 5.006610
+
+ temperature is: 5.006800
+
+ temperature is: 5.006988
+
+ temperature is: 5.007172
+
+ temperature is: 5.007353
+
+ temperature is: 5.007531
+
+ temperature is: 5.007706
+
+ temperature is: 5.007878
+
+ temperature is: 5.008047
+
+ temperature is: 5.008212
+
+ temperature is: 5.008375
+
+ temperature is: 5.008534
+
+ temperature is: 5.008690
+
+ temperature is: 5.008844
+
+ temperature is: 5.008994
+
+ temperature is: 5.009140
+
+ temperature is: 5.009284
+
+ temperature is: 5.009425
+
+ temperature is: 5.009562
+
+ temperature is: 5.009697
+
+ temperature is: 5.009828
+
+ temperature is: 5.009957
+
+ temperature is: 5.010082
+
+ temperature is: 5.010204
+
+ temperature is: 5.010323
+
+ temperature is: 5.010439
+
+ temperature is: 5.010551
+
+ temperature is: 5.010661
+
+ temperature is: 5.010768
+
+ temperature is: 5.010871
+
+ temperature is: 5.010971
+
+ temperature is: 5.011069
+
+ temperature is: 5.011163
+
+ temperature is: 5.011254
+
+ temperature is: 5.011342
+
+ temperature is: 5.011427
+
+ temperature is: 5.011509
+
+ temperature is: 5.011587
+
+ temperature is: 5.011663
+
+ temperature is: 5.011736
+
+ temperature is: 5.011805
+
+ temperature is: 5.011872
+
+ temperature is: 5.011935
+
+ temperature is: 5.011995
+
+ temperature is: 5.012052
+
+ temperature is: 5.012107
+
+ temperature is: 5.012158
+
+ temperature is: 5.012206
+
+ temperature is: 5.012250
+
+ temperature is: 5.012292
+
+ temperature is: 5.012331
+
+ temperature is: 5.012367
+
+ temperature is: 5.012399
+
+ temperature is: 5.012429
+
+ temperature is: 5.012455
+
+ temperature is: 5.012479
+
+ temperature is: 5.012499
+
+ temperature is: 5.012517
+
+ temperature is: 5.012531
+
+ temperature is: 5.012542
+
+ temperature is: 5.012550
+
+ temperature is: 5.012555
+
+ temperature is: 5.012557
+
+ temperature is: 5.012556
+
+ temperature is: 5.012552
+
+ temperature is: 5.012545
+
+ temperature is: 5.012535
+
+ temperature is: 5.012522
+
+ temperature is: 5.012505
+
+ temperature is: 5.012486
+
+ temperature is: 5.012464
+
+ temperature is: 5.012438
+
+ temperature is: 5.012410
+
+ temperature is: 5.012378
+
+ temperature is: 5.012344
+
+ temperature is: 5.012306
+
+ temperature is: 5.012266
+
+ temperature is: 5.012222
+
+ temperature is: 5.012175
+
+ temperature is: 5.012126
+
+ temperature is: 5.012073
+
+ temperature is: 5.012017
+
+ temperature is: 5.011958
+
+ temperature is: 5.011897
+
+ temperature is: 5.011832
+
+ temperature is: 5.011764
+
+ temperature is: 5.011693
+
+ temperature is: 5.011619
+
+ temperature is: 5.011542
+
+ temperature is: 5.011462
+
+ temperature is: 5.011379
+
+ temperature is: 5.011293
+
+ temperature is: 5.011204
+
+ temperature is: 5.011112
+
+ temperature is: 5.011017
+
+ temperature is: 5.010919
+
+ temperature is: 5.010818
+
+ temperature is: 5.010714
+
+ temperature is: 5.010607
+
+ temperature is: 5.010497
+
+ temperature is: 5.010384
+
+ temperature is: 5.010268
+
+ temperature is: 5.010149
+
+ temperature is: 5.010027
+
+ temperature is: 5.009901
+
+ temperature is: 5.009773
+
+ temperature is: 5.009642
+
+ temperature is: 5.009508
+
+ temperature is: 5.009371
+
+ temperature is: 5.009231
+
+ temperature is: 5.009088
+
+ temperature is: 5.008942
+
+ temperature is: 5.008793
+
+ temperature is: 5.008641
+
+ temperature is: 5.008486
+
+ temperature is: 5.008328
+
+ temperature is: 5.008167
+
+ temperature is: 5.008003
+
+ temperature is: 5.007836
+
+ temperature is: 5.007666
+
+ temperature is: 5.007493
+
+ temperature is: 5.007317
+
+ temperature is: 5.007138
+
+ temperature is: 5.006956
+
+ temperature is: 5.006772
+
+ temperature is: 5.006584
+
+ temperature is: 5.006393
+
+ temperature is: 5.006199
+
+ temperature is: 5.006003
+
+ temperature is: 5.005803
+
+ temperature is: 5.005600
+
+ temperature is: 5.005395
+
+ temperature is: 5.005186
+
+ temperature is: 5.004975
+
+ temperature is: 5.004760
+
+ temperature is: 5.004543
+
+ temperature is: 5.004322
+
+ temperature is: 5.004099
+
+ temperature is: 5.003873
+
+ temperature is: 5.003644
+
+ temperature is: 5.003411
+
+ temperature is: 5.003176
+
+ temperature is: 5.002938
+
+ temperature is: 5.002697
+
+ temperature is: 5.002453
+
+ temperature is: 5.002206
+
+ temperature is: 5.001956
+
+ temperature is: 5.001703
+
+ temperature is: 5.001448
+
+ temperature is: 5.001189
+
+ temperature is: 5.000927
+
+ temperature is: 5.000663
+
+ temperature is: 5.000395
+
+ temperature is: 5.000125
+
+ temperature is: 4.999851
+
+ temperature is: 4.999575
+
+ temperature is: 4.999296
+
+ temperature is: 4.999014
+
+ temperature is: 4.998729
+
+ temperature is: 4.998441
+
+ temperature is: 4.998150
+
+ temperature is: 4.997856
+
+ temperature is: 4.997559
+
+ temperature is: 4.997259
+
+ temperature is: 4.996957
+
+ temperature is: 4.996651
+
+ temperature is: 4.996343
+
+ temperature is: 4.996031
+
+ temperature is: 4.995717
+
+ temperature is: 4.995400
+
+ temperature is: 4.995080
+
+ temperature is: 4.994757
+
+ temperature is: 4.994431
+
+ temperature is: 4.994102
+
+ temperature is: 4.993770
+
+ temperature is: 4.993436
+
+ temperature is: 4.993098
+
+ temperature is: 4.992758
+
+ temperature is: 4.992414
+
+ temperature is: 4.992068
+
+ temperature is: 4.991719
+
+ temperature is: 4.991367
+
+ temperature is: 4.991012
+
+ temperature is: 4.990654
+
+ temperature is: 4.990294
+
+ temperature is: 4.989930
+
+ temperature is: 4.989564
+
+ temperature is: 4.989194
+
+ temperature is: 4.988822
+
+ temperature is: 4.988447
+
+ temperature is: 4.988069
+
+ temperature is: 4.987688
+
+ temperature is: 4.987304
+
+ temperature is: 4.986918
+
+ temperature is: 4.986528
+
+ temperature is: 4.986136
+
+ temperature is: 4.985741
+
+ temperature is: 4.985343
+
+ temperature is: 4.984942
+
+ temperature is: 4.984538
+
+ temperature is: 4.984131
+
+ temperature is: 4.983722
+
+ temperature is: 4.983309
+
+ temperature is: 4.982894
+
+ temperature is: 4.982476
+
+ temperature is: 4.982055
+
+ temperature is: 4.981631
+
+ temperature is: 4.981204
+
+ temperature is: 4.980775
+
+ temperature is: 4.980342
+
+ temperature is: 4.979907
+
+ temperature is: 4.979469
+
+ temperature is: 4.979028
+
+ temperature is: 4.978584
+
+ temperature is: 4.978137
+
+ temperature is: 4.977688
+
+ temperature is: 4.977235
+
+ temperature is: 4.976780
+
+ temperature is: 4.976322
+
+ temperature is: 4.975861
+
+ temperature is: 4.975398
+
+ temperature is: 4.974931
+
+ temperature is: 4.974462
+
+ temperature is: 4.973989
+
+ temperature is: 4.973514
+
+ temperature is: 4.973037
+
+ temperature is: 4.972556
+
+ temperature is: 4.972072
+
+ temperature is: 4.971586
+
+ temperature is: 4.971097
+
+ temperature is: 4.970605
+
+ temperature is: 4.970110
+
+ temperature is: 4.969613
+
+ temperature is: 4.969112
+
+ temperature is: 4.968609
+
+ temperature is: 4.968103
+
+ temperature is: 4.967594
+
+ temperature is: 4.967082
+
+ temperature is: 4.966568
+
+ temperature is: 4.966051
+
+ temperature is: 4.965530
+
+ temperature is: 4.965008
+
+ temperature is: 4.964482
+
+ temperature is: 4.963953
+
+ temperature is: 4.963422
+
+ temperature is: 4.962888
+
+ temperature is: 4.962351
+
+ temperature is: 4.961811
+
+ temperature is: 4.961269
+
+ temperature is: 4.960724
+
+ temperature is: 4.960176
+
+ temperature is: 4.959625
+
+ temperature is: 4.959071
+
+ temperature is: 4.958515
+
+ temperature is: 4.957956
+
+ temperature is: 4.957394
+
+ temperature is: 4.956829
+
+ temperature is: 4.956261
+
+ temperature is: 4.955691
+
+ temperature is: 4.955118
+
+ temperature is: 4.954542
+
+ temperature is: 4.953964
+
+ temperature is: 4.953382
+
+ temperature is: 4.952798
+
+ temperature is: 4.952211
+
+ temperature is: 4.951621
+
+ temperature is: 4.951029
+
+ temperature is: 4.950434
+
+ temperature is: 4.949836
+
+ temperature is: 4.949235
+
+ temperature is: 4.948631
+
+ temperature is: 4.948025
+
+ temperature is: 4.947416
+
+ temperature is: 4.946804
+
+ temperature is: 4.946190
+
+ temperature is: 4.945573
+
+ temperature is: 4.944953
+
+ temperature is: 4.944330
+
+ temperature is: 4.943704
+
+ temperature is: 4.943076
+
+ temperature is: 4.942445
+
+ temperature is: 4.941812
+
+ temperature is: 4.941175
+
+ temperature is: 4.940536
+
+ temperature is: 4.939894
+
+ temperature is: 4.939249
+
+ temperature is: 4.938602
+
+ temperature is: 4.937952
+
+ temperature is: 4.937299
+
+ temperature is: 4.936643
+
+ temperature is: 4.935985
+
+ temperature is: 4.935324
+
+ temperature is: 4.934660
+
+ temperature is: 4.933994
+
+ temperature is: 4.933325
+
+ temperature is: 4.932653
+
+ temperature is: 4.931978
+
+ temperature is: 4.931301
+
+ temperature is: 4.930621
+
+ temperature is: 4.929938
+
+ temperature is: 4.929253
+
+ temperature is: 4.928565
+
+ temperature is: 4.927874
+
+ temperature is: 4.927180
+
+ temperature is: 4.926484
+
+ temperature is: 4.925785
+
+ temperature is: 4.925083
+
+ temperature is: 4.924379
+
+ temperature is: 4.923672
+
+ temperature is: 4.922962
+
+ temperature is: 4.922250
+
+ temperature is: 4.921535
+
+ temperature is: 4.920817
+
+ temperature is: 4.920097
+
+ temperature is: 4.919373
+
+ temperature is: 4.918648
+
+ temperature is: 4.917919
+
+ temperature is: 4.917188
+
+ temperature is: 4.916454
+
+ temperature is: 4.915717
+
+ temperature is: 4.914978
+
+ temperature is: 4.914236
+
+ temperature is: 4.913492
+
+ temperature is: 4.912744
+
+ temperature is: 4.911995
+
+ temperature is: 4.911242
+
+ temperature is: 4.910487
+
+ temperature is: 4.909729
+
+ temperature is: 4.908968
+
+ temperature is: 4.908205
+
+ temperature is: 4.907439
+
+ temperature is: 4.906671
+
+ temperature is: 4.905899
+
+ temperature is: 4.905126
+
+ temperature is: 4.904349
+
+ temperature is: 4.903570
+
+ temperature is: 4.902788
+
+ temperature is: 4.902004
+
+ temperature is: 4.901217
+
+ temperature is: 4.900427
+
+ temperature is: 4.899635
+
+ temperature is: 4.898840
+
+ temperature is: 4.898042
+
+ temperature is: 4.897242
+
+ temperature is: 4.896439
+
+ temperature is: 4.895634
+
+ temperature is: 4.894825
+
+ temperature is: 4.894015
+
+ temperature is: 4.893201
+
+ temperature is: 4.892385
+
+ temperature is: 4.891567
+
+ temperature is: 4.890745
+
+ temperature is: 4.889922
+
+ temperature is: 4.889095
+
+ temperature is: 4.888266
+
+ temperature is: 4.887434
+
+ temperature is: 4.886600
+
+ temperature is: 4.885763
+
+ temperature is: 4.884924
+
+ temperature is: 4.884082
+
+ temperature is: 4.883237
+
+ temperature is: 4.882389
+
+ temperature is: 4.881540
+
+ temperature is: 4.880687
+
+ temperature is: 4.879832
+
+ temperature is: 4.878974
+
+ temperature is: 4.878114
+
+ temperature is: 4.877251
+
+ temperature is: 4.876385
+
+ temperature is: 4.875517
+
+ temperature is: 4.874647
+
+ temperature is: 4.873774
+
+ temperature is: 4.872898
+
+ temperature is: 4.872019
+
+ temperature is: 4.871138
+
+ temperature is: 4.870255
+
+ temperature is: 4.869369
+
+ temperature is: 4.868480
+
+ temperature is: 4.867589
+
+ temperature is: 4.866695
+
+ temperature is: 4.865798
+
+ temperature is: 4.864899
+
+ temperature is: 4.863998
+
+ temperature is: 4.863094
+
+ temperature is: 4.862187
+
+ temperature is: 4.861278
+
+ temperature is: 4.860366
+
+ temperature is: 4.859452
+
+ temperature is: 4.858535
+
+ temperature is: 4.857616
+
+ temperature is: 4.856694
+
+ temperature is: 4.855769
+
+ temperature is: 4.854842
+
+ temperature is: 4.853913
+
+ temperature is: 4.852980
+
+ temperature is: 4.852046
+
+ temperature is: 4.851109
+
+ temperature is: 4.850169
+
+ temperature is: 4.849227
+
+ temperature is: 4.848282
+
+ temperature is: 4.847334
+
+ temperature is: 4.846385
+
+ temperature is: 4.845432
+
+ temperature is: 4.844477
+
+ temperature is: 4.843520
+
+ temperature is: 4.842560
+
+ temperature is: 4.841597
+
+ temperature is: 4.840632
+
+ temperature is: 4.839665
+
+ temperature is: 4.838695
+
+ temperature is: 4.837722
+
+ temperature is: 4.836747
+
+ temperature is: 4.835770
+
+ temperature is: 4.834790
+
+ temperature is: 4.833807
+
+ temperature is: 4.832822
+
+ temperature is: 4.831835
+
+ temperature is: 4.830845
+
+ temperature is: 4.829852
+
+ temperature is: 4.828857
+
+ temperature is: 4.827860
+
+ temperature is: 4.826860
+
+ temperature is: 4.825857
+
+ temperature is: 4.824852
+
+ temperature is: 4.823845
+
+ temperature is: 4.822835
+
+ temperature is: 4.821823
+
+ temperature is: 4.820808
+
+ temperature is: 4.819790
+
+ temperature is: 4.818771
+
+ temperature is: 4.817748
+
+ temperature is: 4.816724
+
+ temperature is: 4.815696
+
+ temperature is: 4.814667
+
+ temperature is: 4.813634
+
+ temperature is: 4.812600
+
+ temperature is: 4.811563
+
+ temperature is: 4.810523
+
+ temperature is: 4.809481
+
+ temperature is: 4.808437
+
+ temperature is: 4.807390
+
+ temperature is: 4.806341
+
+ temperature is: 4.805289
+
+ temperature is: 4.804235
+
+ temperature is: 4.803178
+
+ temperature is: 4.802119
+
+ temperature is: 4.801057
+
+ temperature is: 4.799993
+
+ temperature is: 4.798927
+
+ temperature is: 4.797858
+
+ temperature is: 4.796787
+
+ temperature is: 4.795713
+
+ temperature is: 4.794637
+
+ temperature is: 4.793558
+
+ temperature is: 4.792477
+
+ temperature is: 4.791394
+
+ temperature is: 4.790308
+
+ temperature is: 4.789220
+
+ temperature is: 4.788129
+
+ temperature is: 4.787036
+
+ temperature is: 4.785941
+
+ temperature is: 4.784843
+
+ temperature is: 4.783742
+
+ temperature is: 4.782640
+
+ temperature is: 4.781535
+
+ temperature is: 4.780427
+
+ temperature is: 4.779317
+
+ temperature is: 4.778205
+
+ temperature is: 4.777090
+
+ temperature is: 4.775973
+
+ temperature is: 4.774854
+
+ temperature is: 4.773732
+
+ temperature is: 4.772608
+
+ temperature is: 4.771481
+
+ temperature is: 4.770352
+
+ temperature is: 4.769221
+
+ temperature is: 4.768087
+
+ temperature is: 4.766951
+
+ temperature is: 4.765812
+
+ temperature is: 4.764671
+
+ temperature is: 4.763528
+
+ temperature is: 4.762383
+
+ temperature is: 4.761235
+
+ temperature is: 4.760084
+
+ temperature is: 4.758931
+
+ temperature is: 4.757776
+
+ temperature is: 4.756619
+
+ temperature is: 4.755459
+
+ temperature is: 4.754297
+
+ temperature is: 4.753133
+
+ temperature is: 4.751966
+
+ temperature is: 4.750797
+
+ temperature is: 4.749625
+
+ temperature is: 4.748451
+
+ temperature is: 4.747275
+
+ temperature is: 4.746097
+
+ temperature is: 4.744916
+
+ temperature is: 4.743733
+
+ temperature is: 4.742547
+
+ temperature is: 4.741359
+
+ temperature is: 4.740169
+
+ temperature is: 4.738976
+
+ temperature is: 4.737782
+
+ temperature is: 4.736585
+
+ temperature is: 4.735385
+
+ temperature is: 4.734183
+
+ temperature is: 4.732979
+
+ temperature is: 4.731773
+
+ temperature is: 4.730564
+
+ temperature is: 4.729353
+
+ temperature is: 4.728140
+
+ temperature is: 4.726924
+
+ temperature is: 4.725706
+
+ temperature is: 4.724486
+
+ temperature is: 4.723263
+
+ temperature is: 4.722039
+
+ temperature is: 4.720812
+
+ temperature is: 4.719582
+
+ temperature is: 4.718350
+
+ temperature is: 4.717116
+
+ temperature is: 4.715880
+
+ temperature is: 4.714642
+
+ temperature is: 4.713401
+
+ temperature is: 4.712158
+
+ temperature is: 4.710912
+
+ temperature is: 4.709665
+
+ temperature is: 4.708415
+
+ temperature is: 4.707163
+
+ temperature is: 4.705908
+
+ temperature is: 4.704652
+
+ temperature is: 4.703393
+
+ temperature is: 4.702131
+
+ temperature is: 4.700868
+
+ temperature is: 4.699602
+
+ temperature is: 4.698334
+
+ temperature is: 4.697064
+
+ temperature is: 4.695792
+
+ temperature is: 4.694517
+
+ temperature is: 4.693240
+
+ temperature is: 4.691961
+
+ temperature is: 4.690679
+
+ temperature is: 4.689396
+
+ temperature is: 4.688110
+
+ temperature is: 4.686821
+
+ temperature is: 4.685531
+
+ temperature is: 4.684238
+
+ temperature is: 4.682944
+
+ temperature is: 4.681647
+
+ temperature is: 4.680347
+
+ temperature is: 4.679046
+
+ temperature is: 4.677742
+
+ temperature is: 4.676436
+
+ temperature is: 4.675128
+
+ temperature is: 4.673818
+
+ temperature is: 4.672505
+
+ temperature is: 4.671191
+
+ temperature is: 4.669874
+
+ temperature is: 4.668554
+
+ temperature is: 4.667233
+
+ temperature is: 4.665910
+
+ temperature is: 4.664584
+
+ temperature is: 4.663256
+
+ temperature is: 4.661926
+
+ temperature is: 4.660594
+
+ temperature is: 4.659259
+
+ temperature is: 4.657922
+
+ temperature is: 4.656584
+
+ temperature is: 4.655243
+
+ temperature is: 4.653899
+
+ temperature is: 4.652554
+
+ temperature is: 4.651206
+
+ temperature is: 4.649857
+
+ temperature is: 4.648505
+
+ temperature is: 4.647151
+
+ temperature is: 4.645795
+
+ temperature is: 4.644436
+
+ temperature is: 4.643076
+
+ temperature is: 4.641713
+
+ temperature is: 4.640348
+
+ temperature is: 4.638981
+
+ temperature is: 4.637612
+
+ temperature is: 4.636241
+
+ temperature is: 4.634868
+
+ temperature is: 4.633492
+
+ temperature is: 4.632115
+
+ temperature is: 4.630735
+
+ temperature is: 4.629353
+
+ temperature is: 4.627969
+
+ temperature is: 4.626583
+
+ temperature is: 4.625194
+
+ temperature is: 4.623804
+
+ temperature is: 4.622411
+
+ temperature is: 4.621017
+
+ temperature is: 4.619620
+
+ temperature is: 4.618221
+
+ temperature is: 4.616820
+
+ temperature is: 4.615417
+
+ temperature is: 4.614012
+
+ temperature is: 4.612604
+
+ temperature is: 4.611195
+
+ temperature is: 4.609784
+
+ temperature is: 4.608370
+
+ temperature is: 4.606954
+
+ temperature is: 4.605536
+
+ temperature is: 4.604117
+
+ temperature is: 4.602695
+
+ temperature is: 4.601271
+
+ temperature is: 4.599844
+
+ temperature is: 4.598416
+
+ temperature is: 4.596986
+
+ temperature is: 4.595554
+
+ temperature is: 4.594119
+
+ temperature is: 4.592683
+
+ temperature is: 4.591244
+
+ temperature is: 4.589804
+
+ temperature is: 4.588361
+
+ temperature is: 4.586916
+
+ temperature is: 4.585469
+
+ temperature is: 4.584020
+
+ temperature is: 4.582570
+
+ temperature is: 4.581117
+
+ temperature is: 4.579662
+
+ temperature is: 4.578205
+
+ temperature is: 4.576746
+
+ temperature is: 4.575284
+
+ temperature is: 4.573821
+
+ temperature is: 4.572356
+
+ temperature is: 4.570889
+
+ temperature is: 4.569420
+
+ temperature is: 4.567948
+
+ temperature is: 4.566475
+
+ temperature is: 4.565000
+
+ temperature is: 4.563522
+
+ temperature is: 4.562043
+
+ temperature is: 4.560562
+
+ temperature is: 4.559078
+
+ temperature is: 4.557593
+
+ temperature is: 4.556105
+
+ temperature is: 4.554616
+
+ temperature is: 4.553125
+
+ temperature is: 4.551631
+
+ temperature is: 4.550136
+
+ temperature is: 4.548638
+
+ temperature is: 4.547139
+
+ temperature is: 4.545638
+
+ temperature is: 4.544134
+
+ temperature is: 4.542629
+
+ temperature is: 4.541122
+
+ temperature is: 4.539612
+
+ temperature is: 4.538101
+
+ temperature is: 4.536588
+
+ temperature is: 4.535073
+
+ temperature is: 4.533555
+
+ temperature is: 4.532036
+
+ temperature is: 4.530515
+
+ temperature is: 4.528992
+
+ temperature is: 4.527467
+
+ temperature is: 4.525940
+
+ temperature is: 4.524411
+
+ temperature is: 4.522880
+
+ temperature is: 4.521348
+
+ temperature is: 4.519813
+
+ temperature is: 4.518276
+
+ temperature is: 4.516737
+
+ temperature is: 4.515197
+
+ temperature is: 4.513654
+
+ temperature is: 4.512110
+
+ temperature is: 4.510563
+
+ temperature is: 4.509015
+
+ temperature is: 4.507465
+
+ temperature is: 4.505913
+
+ temperature is: 4.504359
+
+ temperature is: 4.502803
+
+ temperature is: 4.501245
+
+ temperature is: 4.499685
+
+ temperature is: 4.498123
+
+ temperature is: 4.496560
+
+ temperature is: 4.494994
+
+ temperature is: 4.493427
+
+ temperature is: 4.491857
+
+ temperature is: 4.490286
+
+ temperature is: 4.488713
+
+ temperature is: 4.487138
+
+ temperature is: 4.485561
+
+ temperature is: 4.483982
+
+ temperature is: 4.482402
+
+ temperature is: 4.480819
+
+ temperature is: 4.479235
+
+ temperature is: 4.477649
+
+ temperature is: 4.476060
+
+ temperature is: 4.474470
+
+ temperature is: 4.472879
+
+ temperature is: 4.471285
+
+ temperature is: 4.469689
+
+ temperature is: 4.468092
+
+ temperature is: 4.466493
+
+ temperature is: 4.464891
+
+ temperature is: 4.463288
+
+ temperature is: 4.461684
+
+ temperature is: 4.460077
+
+ temperature is: 4.458468
+
+ temperature is: 4.456858
+
+ temperature is: 4.455246
+
+ temperature is: 4.453632
+
+ temperature is: 4.452016
+
+ temperature is: 4.450398
+
+ temperature is: 4.448779
+
+ temperature is: 4.447157
+
+ temperature is: 4.445534
+
+ temperature is: 4.443909
+
+ temperature is: 4.442282
+
+ temperature is: 4.440654
+
+ temperature is: 4.439023
+
+ temperature is: 4.437391
+
+ temperature is: 4.435757
+
+ temperature is: 4.434122
+
+ temperature is: 4.432484
+
+ temperature is: 4.430845
+
+ temperature is: 4.429203
+
+ temperature is: 4.427560
+
+ temperature is: 4.425916
+
+ temperature is: 4.424269
+
+ temperature is: 4.422621
+
+ temperature is: 4.420971
+
+ temperature is: 4.419319
+
+ temperature is: 4.417665
+
+ temperature is: 4.416010
+
+ temperature is: 4.414353
+
+ temperature is: 4.412694
+
+ temperature is: 4.411033
+
+ temperature is: 4.409371
+
+ temperature is: 4.407707
+
+ temperature is: 4.406041
+
+ temperature is: 4.404373
+
+ temperature is: 4.402703
+
+ temperature is: 4.401032
+
+ temperature is: 4.399359
+
+ temperature is: 4.397685
+
+ temperature is: 4.396008
+
+ temperature is: 4.394330
+
+ temperature is: 4.392650
+
+ temperature is: 4.390969
+
+ temperature is: 4.389286
+
+ temperature is: 4.387601
+
+ temperature is: 4.385914
+
+ temperature is: 4.384225
+
+ temperature is: 4.382535
+
+ temperature is: 4.380843
+
+ temperature is: 4.379150
+
+ temperature is: 4.377455
+
+ temperature is: 4.375758
+
+ temperature is: 4.374059
+
+ temperature is: 4.372359
+
+ temperature is: 4.370657
+
+ temperature is: 4.368953
+
+ temperature is: 4.367248
+
+ temperature is: 4.365540
+
+ temperature is: 4.363832
+
+ temperature is: 4.362121
+
+ temperature is: 4.360409
+
+ temperature is: 4.358695
+
+ temperature is: 4.356980
+
+ temperature is: 4.355263
+
+ temperature is: 4.353544
+
+ temperature is: 4.351824
+
+ temperature is: 4.350101
+
+ temperature is: 4.348378
+
+ temperature is: 4.346652
+
+ temperature is: 4.344925
+
+ temperature is: 4.343197
+
+ temperature is: 4.341466
+
+ temperature is: 4.339734
+
+ temperature is: 4.338001
+
+ temperature is: 4.336266
+
+ temperature is: 4.334529
+
+ temperature is: 4.332790
+
+ temperature is: 4.331050
+
+ temperature is: 4.329309
+
+ temperature is: 4.327565
+
+ temperature is: 4.325820
+
+ temperature is: 4.324074
+
+ temperature is: 4.322326
+
+ temperature is: 4.320576
+
+ temperature is: 4.318824
+
+ temperature is: 4.317072
+
+ temperature is: 4.315317
+
+ temperature is: 4.313561
+
+ temperature is: 4.311803
+
+ temperature is: 4.310044
+
+ temperature is: 4.308283
+
+ temperature is: 4.306520
+
+ temperature is: 4.304756
+
+ temperature is: 4.302991
+
+ temperature is: 4.301224
+
+ temperature is: 4.299455
+
+ temperature is: 4.297684
+
+ temperature is: 4.295913
+
+ temperature is: 4.294139
+
+ temperature is: 4.292364
+
+ temperature is: 4.290588
+
+ temperature is: 4.288810
+
+ temperature is: 4.287030
+
+ temperature is: 4.285249
+
+ temperature is: 4.283466
+
+ temperature is: 4.281682
+
+ temperature is: 4.279896
+
+ temperature is: 4.278109
+
+ temperature is: 4.276320
+
+ temperature is: 4.274529
+
+ temperature is: 4.272737
+
+ temperature is: 4.270944
+
+ temperature is: 4.269149
+
+ temperature is: 4.267353
+
+ temperature is: 4.265555
+
+ temperature is: 4.263755
+
+ temperature is: 4.261954
+
+ temperature is: 4.260152
+
+ temperature is: 4.258348
+
+ temperature is: 4.256542
+
+ temperature is: 4.254736
+
+ temperature is: 4.252927
+
+ temperature is: 4.251117
+
+ temperature is: 4.249306
+
+ temperature is: 4.247493
+
+ temperature is: 4.245679
+
+ temperature is: 4.243863
+
+ temperature is: 4.242046
+
+ temperature is: 4.240227
+
+ temperature is: 4.238407
+
+ temperature is: 4.236585
+
+ temperature is: 4.234762
+
+ temperature is: 4.232937
+
+ temperature is: 4.231111
+
+ temperature is: 4.229284
+
+ temperature is: 4.227455
+
+ temperature is: 4.225625
+
+ temperature is: 4.223793
+
+ temperature is: 4.221960
+
+ temperature is: 4.220125
+
+ temperature is: 4.218289
+
+ temperature is: 4.216452
+
+ temperature is: 4.214613
+
+ temperature is: 4.212772
+
+ temperature is: 4.210931
+
+ temperature is: 4.209088
+
+ temperature is: 4.207243
+
+ temperature is: 4.205397
+
+ temperature is: 4.203550
+
+ temperature is: 4.201701
+
+ temperature is: 4.199851
+
+ temperature is: 4.197999
+
+ temperature is: 4.196147
+
+ temperature is: 4.194292
+
+ temperature is: 4.192437
+
+ temperature is: 4.190580
+
+ temperature is: 4.188721
+
+ temperature is: 4.186861
+
+ temperature is: 4.185000
+
+ temperature is: 4.183138
+
+ temperature is: 4.181274
+
+ temperature is: 4.179409
+
+ temperature is: 4.177542
+
+ temperature is: 4.175674
+
+ temperature is: 4.173805
+
+ temperature is: 4.171934
+
+ temperature is: 4.170062
+
+ temperature is: 4.168189
+
+ temperature is: 4.166314
+
+ temperature is: 4.164439
+
+ temperature is: 4.162561
+
+ temperature is: 4.160683
+
+ temperature is: 4.158803
+
+ temperature is: 4.156922
+
+ temperature is: 4.155039
+
+ temperature is: 4.153155
+
+ temperature is: 4.151270
+
+ temperature is: 4.149383
+
+ temperature is: 4.147496
+
+ temperature is: 4.145607
+
+ temperature is: 4.143716
+
+ temperature is: 4.141825
+
+ temperature is: 4.139932
+
+ temperature is: 4.138038
+
+ temperature is: 4.136142
+
+ temperature is: 4.134245
+
+ temperature is: 4.132347
+
+ temperature is: 4.130448
+
+ temperature is: 4.128547
+
+ temperature is: 4.126646
+
+ temperature is: 4.124742
+
+ temperature is: 4.122838
+
+ temperature is: 4.120933
+
+ temperature is: 4.119026
+
+ temperature is: 4.117118
+
+ temperature is: 4.115208
+
+ temperature is: 4.113298
+
+ temperature is: 4.111386
+
+ temperature is: 4.109473
+
+ temperature is: 4.107559
+
+ temperature is: 4.105643
+
+ temperature is: 4.103726
+
+ temperature is: 4.101809
+
+ temperature is: 4.099889
+
+ temperature is: 4.097969
+
+ temperature is: 4.096048
+
+ temperature is: 4.094125
+
+ temperature is: 4.092201
+
+ temperature is: 4.090276
+
+ temperature is: 4.088349
+
+ temperature is: 4.086422
+
+ temperature is: 4.084493
+
+ temperature is: 4.082563
+
+ temperature is: 4.080632
+
+ temperature is: 4.078700
+
+ temperature is: 4.076767
+
+ temperature is: 4.074832
+
+ temperature is: 4.072896
+
+ temperature is: 4.070959
+
+ temperature is: 4.069021
+
+ temperature is: 4.067082
+
+ temperature is: 4.065142
+
+ temperature is: 4.063200
+
+ temperature is: 4.061258
+
+ temperature is: 4.059314
+
+ temperature is: 4.057369
+
+ temperature is: 4.055423
+
+ temperature is: 4.053476
+
+ temperature is: 4.051527
+
+ temperature is: 4.049578
+
+ temperature is: 4.047627
+
+ temperature is: 4.045676
+
+ temperature is: 4.043723
+
+ temperature is: 4.041769
+
+ temperature is: 4.039814
+
+ temperature is: 4.037858
+
+ temperature is: 4.035901
+
+ temperature is: 4.033943
+
+ temperature is: 4.031983
+
+ temperature is: 4.030023
+
+ temperature is: 4.028061
+
+ temperature is: 4.026099
+
+ temperature is: 4.024135
+
+ temperature is: 4.022170
+
+ temperature is: 4.020205
+
+ temperature is: 4.018238
+
+ temperature is: 4.016270
+
+ temperature is: 4.014301
+
+ temperature is: 4.012331
+
+ temperature is: 4.010360
+
+ temperature is: 4.008388
+
+ temperature is: 4.006414
+
+ temperature is: 4.004440
+
+ temperature is: 4.002465
+
+ temperature is: 4.000489
+
+ temperature is: 3.998511
+
+ temperature is: 3.996533
+
+ temperature is: 3.994554
+
+ temperature is: 3.992573
+
+ temperature is: 3.990592
+
+ temperature is: 3.988610
+
+ temperature is: 3.986626
+
+ temperature is: 3.984642
+
+ temperature is: 3.982657
+
+ temperature is: 3.980670
+
+ temperature is: 3.978683
+
+ temperature is: 3.976695
+
+ temperature is: 3.974705
+
+ temperature is: 3.972715
+
+ temperature is: 3.970724
+
+ temperature is: 3.968732
+
+ temperature is: 3.966738
+
+ temperature is: 3.964744
+
+ temperature is: 3.962749
+
+ temperature is: 3.960753
+
+ temperature is: 3.958756
+
+ temperature is: 3.956758
+
+ temperature is: 3.954759
+
+ temperature is: 3.952759
+
+ temperature is: 3.950759
+
+ temperature is: 3.948757
+
+ temperature is: 3.946754
+
+ temperature is: 3.944751
+
+ temperature is: 3.942746
+
+ temperature is: 3.940741
+
+ temperature is: 3.938735
+
+ temperature is: 3.936728
+
+ temperature is: 3.934719
+
+ temperature is: 3.932710
+
+ temperature is: 3.930700
+
+ temperature is: 3.928690
+
+ temperature is: 3.926678
+
+ temperature is: 3.924665
+
+ temperature is: 3.922652
+
+ temperature is: 3.920638
+
+ temperature is: 3.918622
+
+ temperature is: 3.916606
+
+ temperature is: 3.914589
+
+ temperature is: 3.912572
+
+ temperature is: 3.910553
+
+ temperature is: 3.908534
+
+ temperature is: 3.906513
+
+ temperature is: 3.904492
+
+ temperature is: 3.902470
+
+ temperature is: 3.900447
+
+ temperature is: 3.898423
+
+ temperature is: 3.896399
+
+ temperature is: 3.894373
+
+ temperature is: 3.892347
+
+ temperature is: 3.890320
+
+ temperature is: 3.888292
+
+ temperature is: 3.886264
+
+ temperature is: 3.884234
+
+ temperature is: 3.882204
+
+ temperature is: 3.880173
+
+ temperature is: 3.878141
+
+ temperature is: 3.876109
+
+ temperature is: 3.874075
+
+ temperature is: 3.872041
+
+ temperature is: 3.870006
+
+ temperature is: 3.867970
+
+ temperature is: 3.865934
+
+ temperature is: 3.863897
+
+ temperature is: 3.861858
+
+ temperature is: 3.859820
+
+ temperature is: 3.857780
+
+ temperature is: 3.855740
+
+ temperature is: 3.853699
+
+ temperature is: 3.851657
+
+ temperature is: 3.849614
+
+ temperature is: 3.847571
+
+ temperature is: 3.845527
+
+ temperature is: 3.843483
+
+ temperature is: 3.841437
+
+ temperature is: 3.839391
+
+ temperature is: 3.837344
+
+ temperature is: 3.835297
+
+ temperature is: 3.833248
+
+ temperature is: 3.831199
+
+ temperature is: 3.829150
+
+ temperature is: 3.827099
+
+ temperature is: 3.825048
+
+ temperature is: 3.822996
+
+ temperature is: 3.820944
+
+ temperature is: 3.818891
+
+ temperature is: 3.816837
+
+ temperature is: 3.814783
+
+ temperature is: 3.812728
+
+ temperature is: 3.810672
+
+ temperature is: 3.808615
+
+ temperature is: 3.806558
+
+ temperature is: 3.804501
+
+ temperature is: 3.802442
+
+ temperature is: 3.800383
+
+ temperature is: 3.798324
+
+ temperature is: 3.796263
+
+ temperature is: 3.794203
+
+ temperature is: 3.792141
+
+ temperature is: 3.790079
+
+ temperature is: 3.788016
+
+ temperature is: 3.785953
+
+ temperature is: 3.783889
+
+ temperature is: 3.781824
+
+ temperature is: 3.779759
+
+ temperature is: 3.777694
+
+ temperature is: 3.775627
+
+ temperature is: 3.773560
+
+ temperature is: 3.771493
+
+ temperature is: 3.769425
+
+ temperature is: 3.767356
+
+ temperature is: 3.765287
+
+ temperature is: 3.763217
+
+ temperature is: 3.761147
+
+ temperature is: 3.759076
+
+ temperature is: 3.757005
+
+ temperature is: 3.754933
+
+ temperature is: 3.752860
+
+ temperature is: 3.750787
+
+ temperature is: 3.748713
+
+ temperature is: 3.746639
+
+ temperature is: 3.744565
+
+ temperature is: 3.742490
+
+ temperature is: 3.740414
+
+ temperature is: 3.738338
+
+ temperature is: 3.736261
+
+ temperature is: 3.734184
+
+ temperature is: 3.732106
+
+ temperature is: 3.730028
+
+ temperature is: 3.727949
+
+ temperature is: 3.725870
+
+ temperature is: 3.723791
+
+ temperature is: 3.721711
+
+ temperature is: 3.719630
+
+ temperature is: 3.717549
+
+ temperature is: 3.715467
+
+ temperature is: 3.713386
+
+ temperature is: 3.711303
+
+ temperature is: 3.709220
+
+ temperature is: 3.707137
+
+ temperature is: 3.705053
+
+ temperature is: 3.702969
+
+ temperature is: 3.700884
+
+ temperature is: 3.698799
+
+ temperature is: 3.696714
+
+ temperature is: 3.694628
+
+ temperature is: 3.692542
+
+ temperature is: 3.690455
+
+ temperature is: 3.688368
+
+ temperature is: 3.686280
+
+ temperature is: 3.684192
+
+ temperature is: 3.682104
+
+ temperature is: 3.680015
+
+ temperature is: 3.677926
+
+ temperature is: 3.675837
+
+ temperature is: 3.673747
+
+ temperature is: 3.671657
+
+ temperature is: 3.669566
+
+ temperature is: 3.667476
+
+ temperature is: 3.665384
+
+ temperature is: 3.663293
+
+ temperature is: 3.661201
+
+ temperature is: 3.659108
+
+ temperature is: 3.657016
+
+ temperature is: 3.654923
+
+ temperature is: 3.652829
+
+ temperature is: 3.650736
+
+ temperature is: 3.648642
+
+ temperature is: 3.646548
+
+ temperature is: 3.644453
+
+ temperature is: 3.642358
+
+ temperature is: 3.640263
+
+ temperature is: 3.638167
+
+ temperature is: 3.636072
+
+ temperature is: 3.633976
+
+ temperature is: 3.631879
+
+ temperature is: 3.629783
+
+ temperature is: 3.627686
+
+ temperature is: 3.625589
+
+ temperature is: 3.623491
+
+ temperature is: 3.621394
+
+ temperature is: 3.619296
+
+ temperature is: 3.617197
+
+ temperature is: 3.615099
+
+ temperature is: 3.613000
+
+ temperature is: 3.610901
+
+ temperature is: 3.608802
+
+ temperature is: 3.606703
+
+ temperature is: 3.604603
+
+ temperature is: 3.602504
+
+ temperature is: 3.600404
+
+ temperature is: 3.598303
+
+ temperature is: 3.596203
+
+ temperature is: 3.594102
+
+ temperature is: 3.592001
+
+ temperature is: 3.589900
+
+ temperature is: 3.587799
+
+ temperature is: 3.585698
+
+ temperature is: 3.583596
+
+ temperature is: 3.581495
+
+ temperature is: 3.579393
+
+ temperature is: 3.577291
+
+ temperature is: 3.575189
+
+ temperature is: 3.573086
+
+ temperature is: 3.570984
+
+ temperature is: 3.568881
+
+ temperature is: 3.566778
+
+ temperature is: 3.564675
+
+ temperature is: 3.562572
+
+ temperature is: 3.560469
+
+ temperature is: 3.558366
+
+ temperature is: 3.556263
+
+ temperature is: 3.554159
+
+ temperature is: 3.552055
+
+ temperature is: 3.549952
+
+ temperature is: 3.547848
+
+ temperature is: 3.545744
+
+ temperature is: 3.543640
+
+ temperature is: 3.541536
+
+ temperature is: 3.539432
+
+ temperature is: 3.537328
+
+ temperature is: 3.535224
+
+ temperature is: 3.533119
+
+ temperature is: 3.531015
+
+ temperature is: 3.528910
+
+ temperature is: 3.526806
+
+ temperature is: 3.524702
+
+ temperature is: 3.522597
+
+ temperature is: 3.520492
+
+ temperature is: 3.518388
+
+ temperature is: 3.516283
+
+ temperature is: 3.514179
+
+ temperature is: 3.512074
+
+ temperature is: 3.509969
+
+ temperature is: 3.507865
+
+ temperature is: 3.505760
+
+ temperature is: 3.503655
+
+ temperature is: 3.501551
+
+ temperature is: 3.499446
+
+ temperature is: 3.497342
+
+ temperature is: 3.495237
+
+ temperature is: 3.493133
+
+ temperature is: 3.491028
+
+ temperature is: 3.488924
+
+ temperature is: 3.486819
+
+ temperature is: 3.484715
+
+ temperature is: 3.482611
+
+ temperature is: 3.480507
+
+ temperature is: 3.478402
+
+ temperature is: 3.476298
+
+ temperature is: 3.474194
+
+ temperature is: 3.472091
+
+ temperature is: 3.469987
+
+ temperature is: 3.467883
+
+ temperature is: 3.465780
+
+ temperature is: 3.463676
+
+ temperature is: 3.461573
+
+ temperature is: 3.459469
+
+ temperature is: 3.457366
+
+ temperature is: 3.455263
+
+ temperature is: 3.453160
+
+ temperature is: 3.451058
+
+ temperature is: 3.448955
+
+ temperature is: 3.446852
+
+ temperature is: 3.444750
+
+ temperature is: 3.442648
+
+ temperature is: 3.440546
+
+ temperature is: 3.438444
+
+ temperature is: 3.436342
+
+ temperature is: 3.434241
+
+ temperature is: 3.432140
+
+ temperature is: 3.430038
+
+ temperature is: 3.427938
+
+ temperature is: 3.425837
+
+ temperature is: 3.423736
+
+ temperature is: 3.421636
+
+ temperature is: 3.419536
+
+ temperature is: 3.417436
+
+ temperature is: 3.415336
+
+ temperature is: 3.413237
+
+ temperature is: 3.411138
+
+ temperature is: 3.409039
+
+ temperature is: 3.406940
+
+ temperature is: 3.404841
+
+ temperature is: 3.402743
+
+ temperature is: 3.400645
+
+ temperature is: 3.398548
+
+ temperature is: 3.396450
+
+ temperature is: 3.394353
+
+ temperature is: 3.392256
+
+ temperature is: 3.390159
+
+ temperature is: 3.388063
+
+ temperature is: 3.385967
+
+ temperature is: 3.383871
+
+ temperature is: 3.381776
+
+ temperature is: 3.379681
+
+ temperature is: 3.377586
+
+ temperature is: 3.375492
+
+ temperature is: 3.373398
+
+ temperature is: 3.371304
+
+ temperature is: 3.369210
+
+ temperature is: 3.367117
+
+ temperature is: 3.365025
+
+ temperature is: 3.362932
+
+ temperature is: 3.360840
+
+ temperature is: 3.358749
+
+ temperature is: 3.356657
+
+ temperature is: 3.354566
+
+ temperature is: 3.352476
+
+ temperature is: 3.350386
+
+ temperature is: 3.348296
+
+ temperature is: 3.346207
+
+ temperature is: 3.344118
+
+ temperature is: 3.342029
+
+ temperature is: 3.339941
+
+ temperature is: 3.337853
+
+ temperature is: 3.335766
+
+ temperature is: 3.333679
+
+ temperature is: 3.331593
+
+ temperature is: 3.329507
+
+ temperature is: 3.327421
+
+ temperature is: 3.325336
+
+ temperature is: 3.323252
+
+ temperature is: 3.321167
+
+ temperature is: 3.319084
+
+ temperature is: 3.317000
+
+ temperature is: 3.314918
+
+ temperature is: 3.312836
+
+ temperature is: 3.310754
+
+ temperature is: 3.308673
+
+ temperature is: 3.306592
+
+ temperature is: 3.304512
+
+ temperature is: 3.302432
+
+ temperature is: 3.300353
+
+ temperature is: 3.298274
+
+ temperature is: 3.296196
+
+ temperature is: 3.294118
+
+ temperature is: 3.292041
+
+ temperature is: 3.289965
+
+ temperature is: 3.287889
+
+ temperature is: 3.285813
+
+ temperature is: 3.283738
+
+ temperature is: 3.281664
+
+ temperature is: 3.279590
+
+ temperature is: 3.277517
+
+ temperature is: 3.275445
+
+ temperature is: 3.273373
+
+ temperature is: 3.271301
+
+ temperature is: 3.269231
+
+ temperature is: 3.267161
+
+ temperature is: 3.265091
+
+ temperature is: 3.263022
+
+ temperature is: 3.260954
+
+ temperature is: 3.258886
+
+ temperature is: 3.256819
+
+ temperature is: 3.254753
+
+ temperature is: 3.252687
+
+ temperature is: 3.250622
+
+ temperature is: 3.248558
+
+ temperature is: 3.246494
+
+ temperature is: 3.244431
+
+ temperature is: 3.242369
+
+ temperature is: 3.240307
+
+ temperature is: 3.238246
+
+ temperature is: 3.236186
+
+ temperature is: 3.234126
+
+ temperature is: 3.232067
+
+ temperature is: 3.230009
+
+ temperature is: 3.227951
+
+ temperature is: 3.225895
+
+ temperature is: 3.223839
+
+ temperature is: 3.221783
+
+ temperature is: 3.219729
+
+ temperature is: 3.217675
+
+ temperature is: 3.215622
+
+ temperature is: 3.213570
+
+ temperature is: 3.211518
+
+ temperature is: 3.209467
+
+ temperature is: 3.207417
+
+ temperature is: 3.205368
+
+ temperature is: 3.203320
+
+ temperature is: 3.201272
+
+ temperature is: 3.199226
+
+ temperature is: 3.197180
+
+ temperature is: 3.195134
+
+ temperature is: 3.193090
+
+ temperature is: 3.191046
+
+ temperature is: 3.189004
+
+ temperature is: 3.186962
+
+ temperature is: 3.184921
+
+ temperature is: 3.182881
+
+ temperature is: 3.180841
+
+ temperature is: 3.178803
+
+ temperature is: 3.176765
+
+ temperature is: 3.174728
+
+ temperature is: 3.172693
+
+ temperature is: 3.170658
+
+ temperature is: 3.168624
+
+ temperature is: 3.166590
+
+ temperature is: 3.164558
+
+ temperature is: 3.162527
+
+ temperature is: 3.160496
+
+ temperature is: 3.158467
+
+ temperature is: 3.156438
+
+ temperature is: 3.154410
+
+ temperature is: 3.152384
+
+ temperature is: 3.150358
+
+ temperature is: 3.148333
+
+ temperature is: 3.146309
+
+ temperature is: 3.144286
+
+ temperature is: 3.142264
+
+ temperature is: 3.140243
+
+ temperature is: 3.138223
+
+ temperature is: 3.136204
+
+ temperature is: 3.134186
+
+ temperature is: 3.132169
+
+ temperature is: 3.130153
+
+ temperature is: 3.128138
+
+ temperature is: 3.126124
+
+ temperature is: 3.124111
+
+ temperature is: 3.122099
+
+ temperature is: 3.120088
+
+ temperature is: 3.118078
+
+ temperature is: 3.116069
+
+ temperature is: 3.114061
+
+ temperature is: 3.112055
+
+ temperature is: 3.110049
+
+ temperature is: 3.108044
+
+ temperature is: 3.106041
+
+ temperature is: 3.104039
+
+ temperature is: 3.102037
+
+ temperature is: 3.100037
+
+ temperature is: 3.098038
+
+ temperature is: 3.096040
+
+ temperature is: 3.094043
+
+ temperature is: 3.092047
+
+ temperature is: 3.090053
+
+ temperature is: 3.088059
+
+ temperature is: 3.086067
+
+ temperature is: 3.084075
+
+ temperature is: 3.082085
+
+ temperature is: 3.080097
+
+ temperature is: 3.078109
+
+ temperature is: 3.076122
+
+ temperature is: 3.074137
+
+ temperature is: 3.072153
+
+ temperature is: 3.070170
+
+ temperature is: 3.068188
+
+ temperature is: 3.066207
+
+ temperature is: 3.064228
+
+ temperature is: 3.062250
+
+ temperature is: 3.060273
+
+ temperature is: 3.058297
+
+ temperature is: 3.056323
+
+ temperature is: 3.054349
+
+ temperature is: 3.052377
+
+ temperature is: 3.050407
+
+ temperature is: 3.048437
+
+ temperature is: 3.046469
+
+ temperature is: 3.044502
+
+ temperature is: 3.042536
+
+ temperature is: 3.040572
+
+ temperature is: 3.038609
+
+ temperature is: 3.036647
+
+ temperature is: 3.034687
+
+ temperature is: 3.032728
+
+ temperature is: 3.030770
+
+ temperature is: 3.028813
+
+ temperature is: 3.026858
+
+ temperature is: 3.024904
+
+ temperature is: 3.022952
+
+ temperature is: 3.021001
+
+ temperature is: 3.019051
+
+ temperature is: 3.017103
+
+ temperature is: 3.015156
+
+ temperature is: 3.013210
+
+ temperature is: 3.011266
+
+ temperature is: 3.009323
+
+ temperature is: 3.007382
+
+ temperature is: 3.005441
+
+ temperature is: 3.003503
+
+ temperature is: 3.001566
+
+ temperature is: 2.999630
+
+ temperature is: 2.997696
+
+ temperature is: 2.995763
+
+ temperature is: 2.993831
+
+ temperature is: 2.991901
+
+ temperature is: 2.989973
+
+ temperature is: 2.988046
+
+ temperature is: 2.986120
+
+ temperature is: 2.984196
+
+ temperature is: 2.982273
+
+ temperature is: 2.980352
+
+ temperature is: 2.978432
+
+ temperature is: 2.976514
+
+ temperature is: 2.974598
+
+ temperature is: 2.972682
+
+ temperature is: 2.970769
+
+ temperature is: 2.968857
+
+ temperature is: 2.966946
+
+ temperature is: 2.965037
+
+ temperature is: 2.963130
+
+ temperature is: 2.961224
+
+ temperature is: 2.959320
+
+ temperature is: 2.957417
+
+ temperature is: 2.955516
+
+ temperature is: 2.953616
+
+ temperature is: 2.951719
+
+ temperature is: 2.949822
+
+ temperature is: 2.947927
+
+ temperature is: 2.946034
+
+ temperature is: 2.944143
+
+ temperature is: 2.942253
+
+ temperature is: 2.940365
+
+ temperature is: 2.938478
+
+ temperature is: 2.936593
+
+ temperature is: 2.934710
+
+ temperature is: 2.932828
+
+ temperature is: 2.930948
+
+ temperature is: 2.929070
+
+ temperature is: 2.927194
+
+ temperature is: 2.925319
+
+ temperature is: 2.923446
+
+ temperature is: 2.921574
+
+ temperature is: 2.919704
+
+ temperature is: 2.917836
+
+ temperature is: 2.915970
+
+ temperature is: 2.914105
+
+ temperature is: 2.912242
+
+ temperature is: 2.910381
+
+ temperature is: 2.908522
+
+ temperature is: 2.906664
+
+ temperature is: 2.904809
+
+ temperature is: 2.902955
+
+ temperature is: 2.901102
+
+ temperature is: 2.899252
+
+ temperature is: 2.897403
+
+ temperature is: 2.895556
+
+ temperature is: 2.893711
+
+ temperature is: 2.891868
+
+ temperature is: 2.890027
+
+ temperature is: 2.888187
+
+ temperature is: 2.886349
+
+ temperature is: 2.884513
+
+ temperature is: 2.882679
+
+ temperature is: 2.880847
+
+ temperature is: 2.879017
+
+ temperature is: 2.877188
+
+ temperature is: 2.875362
+
+ temperature is: 2.873537
+
+ temperature is: 2.871714
+
+ temperature is: 2.869894
+
+ temperature is: 2.868075
+
+ temperature is: 2.866258
+
+ temperature is: 2.864442
+
+ temperature is: 2.862629
+
+ temperature is: 2.860818
+
+ temperature is: 2.859009
+
+ temperature is: 2.857201
+
+ temperature is: 2.855396
+
+ temperature is: 2.853593
+
+ temperature is: 2.851791
+
+ temperature is: 2.849992
+
+ temperature is: 2.848194
+
+ temperature is: 2.846399
+
+ temperature is: 2.844605
+
+ temperature is: 2.842814
+
+ temperature is: 2.841024
+
+ temperature is: 2.839237
+
+ temperature is: 2.837452
+
+ temperature is: 2.835668
+
+ temperature is: 2.833887
+
+ temperature is: 2.832108
+
+ temperature is: 2.830331
+
+ temperature is: 2.828556
+
+ temperature is: 2.826783
+
+ temperature is: 2.825012
+
+ temperature is: 2.823243
+
+ temperature is: 2.821476
+
+ temperature is: 2.819712
+
+ temperature is: 2.817949
+
+ temperature is: 2.816189
+
+ temperature is: 2.814431
+
+ temperature is: 2.812675
+
+ temperature is: 2.810921
+
+ temperature is: 2.809169
+
+ temperature is: 2.807419
+
+ temperature is: 2.805672
+
+ temperature is: 2.803926
+
+ temperature is: 2.802183
+
+ temperature is: 2.800442
+
+ temperature is: 2.798704
+
+ temperature is: 2.796967
+
+ temperature is: 2.795233
+
+ temperature is: 2.793501
+
+ temperature is: 2.791771
+
+ temperature is: 2.790043
+
+ temperature is: 2.788318
+
+ temperature is: 2.786595
+
+ temperature is: 2.784874
+
+ temperature is: 2.783156
+
+ temperature is: 2.781439
+
+ temperature is: 2.779725
+
+ temperature is: 2.778014
+
+ temperature is: 2.776304
+
+ temperature is: 2.774597
+
+ temperature is: 2.772892
+
+ temperature is: 2.771190
+
+ temperature is: 2.769490
+
+ temperature is: 2.767792
+
+ temperature is: 2.766096
+
+ temperature is: 2.764403
+
+ temperature is: 2.762712
+
+ temperature is: 2.761024
+
+ temperature is: 2.759338
+
+ temperature is: 2.757654
+
+ temperature is: 2.755973
+
+ temperature is: 2.754294
+
+ temperature is: 2.752618
+
+ temperature is: 2.750944
+
+ temperature is: 2.749272
+
+ temperature is: 2.747603
+
+ temperature is: 2.745936
+
+ temperature is: 2.744272
+
+ temperature is: 2.742610
+
+ temperature is: 2.740951
+
+ temperature is: 2.739294
+
+ temperature is: 2.737639
+
+ temperature is: 2.735987
+
+ temperature is: 2.734338
+
+ temperature is: 2.732691
+
+ temperature is: 2.731046
+
+ temperature is: 2.729404
+
+ temperature is: 2.727765
+
+ temperature is: 2.726128
+
+ temperature is: 2.724494
+
+ temperature is: 2.722862
+
+ temperature is: 2.721233
+
+ temperature is: 2.719606
+
+ temperature is: 2.717982
+
+ temperature is: 2.716361
+
+ temperature is: 2.714742
+
+ temperature is: 2.713125
+
+ temperature is: 2.711512
+
+ temperature is: 2.709900
+
+ temperature is: 2.708292
+
+ temperature is: 2.706686
+
+ temperature is: 2.705083
+
+ temperature is: 2.703482
+
+ temperature is: 2.701884
+
+ temperature is: 2.700289
+
+ temperature is: 2.698696
+
+ temperature is: 2.697106
+
+ temperature is: 2.695519
+
+ temperature is: 2.693935
+
+ temperature is: 2.692353
+
+ temperature is: 2.690774
+
+ temperature is: 2.689197
+
+ temperature is: 2.687624
+
+ temperature is: 2.686053
+
+ temperature is: 2.684484
+
+ temperature is: 2.682919
+
+ temperature is: 2.681356
+
+ temperature is: 2.679796
+
+ temperature is: 2.678239
+
+ temperature is: 2.676685
+
+ temperature is: 2.675133
+
+ temperature is: 2.673584
+
+ temperature is: 2.672038
+
+ temperature is: 2.670495
+
+ temperature is: 2.668955
+
+ temperature is: 2.667417
+
+ temperature is: 2.665882
+
+ temperature is: 2.664351
+
+ temperature is: 2.662822
+
+ temperature is: 2.661296
+
+ temperature is: 2.659772
+
+ temperature is: 2.658252
+
+ temperature is: 2.656735
+
+ temperature is: 2.655220
+
+ temperature is: 2.653708
+
+ temperature is: 2.652200
+
+ temperature is: 2.650694
+
+ temperature is: 2.649191
+
+ temperature is: 2.647691
+
+ temperature is: 2.646194
+
+ temperature is: 2.644700
+
+ temperature is: 2.643209
+
+ temperature is: 2.641721
+
+ temperature is: 2.640236
+
+ temperature is: 2.638754
+
+ temperature is: 2.637275
+
+ temperature is: 2.635798
+
+ temperature is: 2.634325
+
+ temperature is: 2.632855
+
+ temperature is: 2.631388
+
+ temperature is: 2.629924
+
+ temperature is: 2.628463
+
+ temperature is: 2.627005
+
+ temperature is: 2.625551
+
+ temperature is: 2.624099
+
+ temperature is: 2.622650
+
+ temperature is: 2.621205
+
+ temperature is: 2.619762
+
+ temperature is: 2.618323
+
+ temperature is: 2.616887
+
+ temperature is: 2.615454
+
+ temperature is: 2.614024
+
+ temperature is: 2.612597
+
+ temperature is: 2.611173
+
+ temperature is: 2.609753
+
+ temperature is: 2.608336
+
+ temperature is: 2.606922
+
+ temperature is: 2.605511
+
+ temperature is: 2.604103
+
+ temperature is: 2.602698
+
+ temperature is: 2.601297
+
+ temperature is: 2.599899
+
+ temperature is: 2.598504
+
+ temperature is: 2.597113
+
+ temperature is: 2.595724
+
+ temperature is: 2.594339
+
+ temperature is: 2.592957
+
+ temperature is: 2.591579
+
+ temperature is: 2.590204
+
+ temperature is: 2.588832
+
+ temperature is: 2.587463
+
+ temperature is: 2.586098
+
+ temperature is: 2.584736
+
+ temperature is: 2.583377
+
+ temperature is: 2.582022
+
+ temperature is: 2.580670
+
+ temperature is: 2.579321
+
+ temperature is: 2.577976
+
+ temperature is: 2.576634
+
+ temperature is: 2.575295
+
+ temperature is: 2.573960
+
+ temperature is: 2.572628
+
+ temperature is: 2.571300
+
+ temperature is: 2.569975
+
+ temperature is: 2.568654
+
+ temperature is: 2.567336
+
+ temperature is: 2.566021
+
+ temperature is: 2.564710
+
+ temperature is: 2.563402
+
+ temperature is: 2.562098
+
+ temperature is: 2.560797
+
+ temperature is: 2.559500
+
+ temperature is: 2.558207
+
+ temperature is: 2.556916
+
+ temperature is: 2.555630
+
+ temperature is: 2.554347
+
+ temperature is: 2.553067
+
+ temperature is: 2.551791
+
+ temperature is: 2.550518
+
+ temperature is: 2.549249
+
+ temperature is: 2.547984
+
+ temperature is: 2.546722
+
+ temperature is: 2.545464
+
+ temperature is: 2.544210
+
+ temperature is: 2.542959
+
+ temperature is: 2.541711
+
+ temperature is: 2.540468
+
+ temperature is: 2.539227
+
+ temperature is: 2.537991
+
+ temperature is: 2.536758
+
+ temperature is: 2.535529
+
+ temperature is: 2.534304
+
+ temperature is: 2.533082
+
+ temperature is: 2.531864
+
+ temperature is: 2.530650
+
+ temperature is: 2.529439
+
+ temperature is: 2.528232
+
+ temperature is: 2.527029
+
+ temperature is: 2.525829
+
+ temperature is: 2.524634
+
+ temperature is: 2.523442
+
+ temperature is: 2.522254
+
+ temperature is: 2.521069
+
+ temperature is: 2.519889
+
+ temperature is: 2.518712
+
+ temperature is: 2.517539
+
+ temperature is: 2.516370
+
+ temperature is: 2.515205
+
+ temperature is: 2.514043
+
+ temperature is: 2.512885
+
+ temperature is: 2.511732
+
+ temperature is: 2.510582
+
+ temperature is: 2.509436
+
+ temperature is: 2.508293
+
+ temperature is: 2.507155
+
+ temperature is: 2.506021
+
+ temperature is: 2.504890
+
+ temperature is: 2.503764
+
+ temperature is: 2.502641
+
+ temperature is: 2.501522
+
+ temperature is: 2.500408
+
+ temperature is: 2.499297
+
+ temperature is: 2.498190
+
+ temperature is: 2.497087
+
+ temperature is: 2.495988
+
+ temperature is: 2.494894
+
+ temperature is: 2.493803
+
+ temperature is: 2.492716
+
+ temperature is: 2.491633
+
+ temperature is: 2.490554
+
+ temperature is: 2.489480
+
+ temperature is: 2.488409
+
+ temperature is: 2.487343
+
+ temperature is: 2.486280
+
+ temperature is: 2.485222
+
+ temperature is: 2.484167
+
+ temperature is: 2.483117
+
+ temperature is: 2.482071
+
+ temperature is: 2.481029
+
+ temperature is: 2.479991
+
+ temperature is: 2.478958
+
+ temperature is: 2.477928
+
+ temperature is: 2.476903
+
+ temperature is: 2.475881
+
+ temperature is: 2.474864
+
+ temperature is: 2.473852
+
+ temperature is: 2.472843
+
+ temperature is: 2.471839
+
+ temperature is: 2.470839
+
+ temperature is: 2.469843
+
+ temperature is: 2.468851
+
+ temperature is: 2.467863
+
+ temperature is: 2.466880
+
+ temperature is: 2.465901
+
+ temperature is: 2.464927
+
+ temperature is: 2.463956
+
+ temperature is: 2.462990
+
+ temperature is: 2.462029
+
+ temperature is: 2.461071
+
+ temperature is: 2.460118
+
+ temperature is: 2.459170
+
+ temperature is: 2.458225
+
+ temperature is: 2.457285
+
+ temperature is: 2.456350
+
+ temperature is: 2.455418
+
+ temperature is: 2.454492
+
+ temperature is: 2.453569
+
+ temperature is: 2.452651
+
+ temperature is: 2.451738
+
+ temperature is: 2.450828
+
+ temperature is: 2.449924
+
+ temperature is: 2.449023
+
+ temperature is: 2.448128
+
+ temperature is: 2.447236
+
+ temperature is: 2.446350
+
+ temperature is: 2.445467
+
+ temperature is: 2.444589
+
+ temperature is: 2.443716
+
+ temperature is: 2.442847
+
+ temperature is: 2.441983
+
+ temperature is: 2.441123
+
+ temperature is: 2.440268
+
+ temperature is: 2.439418
+
+ temperature is: 2.438572
+
+ temperature is: 2.437730
+
+ temperature is: 2.436893
+
+ temperature is: 2.436061
+
+ temperature is: 2.435234
+
+ temperature is: 2.434411
+
+ temperature is: 2.433592
+
+ temperature is: 2.432779
+
+ temperature is: 2.431970
+
+ temperature is: 2.431166
+
+ temperature is: 2.430366
+
+ temperature is: 2.429571
+
+ temperature is: 2.428781
+
+ temperature is: 2.427995
+
+ temperature is: 2.427214
+
+ temperature is: 2.426438
+
+ temperature is: 2.425667
+
+ temperature is: 2.424901
+
+ temperature is: 2.424139
+
+ temperature is: 2.423382
+
+ temperature is: 2.422630
+
+ temperature is: 2.421882
+
+ temperature is: 2.421140
+
+ temperature is: 2.420402
+
+ temperature is: 2.419669
+
+ temperature is: 2.418941
+
+ temperature is: 2.418217
+
+ temperature is: 2.417499
+
+ temperature is: 2.416786
+
+ temperature is: 2.416077
+
+ temperature is: 2.415373
+
+ temperature is: 2.414674
+
+ temperature is: 2.413980
+
+ temperature is: 2.413291
+
+ temperature is: 2.412607
+
+ temperature is: 2.411928
+
+ temperature is: 2.411254
+
+ temperature is: 2.410585
+
+ temperature is: 2.409921
+
+ temperature is: 2.409261
+
+ temperature is: 2.408607
+
+ temperature is: 2.407958
+
+ temperature is: 2.407314
+
+ temperature is: 2.406675
+
+ temperature is: 2.406041
+
+ temperature is: 2.405412
+
+ temperature is: 2.404788
+
+ temperature is: 2.404169
+
+ temperature is: 2.403555
+
+ temperature is: 2.402946
+
+ temperature is: 2.402343
+
+ temperature is: 2.401744
+
+ temperature is: 2.401151
+
+ temperature is: 2.400563
+
+ temperature is: 2.399980
+
+ temperature is: 2.399402
+
+ temperature is: 2.398829
+
+ temperature is: 2.398262
+
+ temperature is: 2.397699
+
+ temperature is: 2.397142
+
+ temperature is: 2.396591
+
+ temperature is: 2.396044
+
+ temperature is: 2.395503
+
+ temperature is: 2.394966
+
+ temperature is: 2.394436
+
+ temperature is: 2.393910
+
+ temperature is: 2.393390
+
+ temperature is: 2.392875
+
+ temperature is: 2.392365
+
+ temperature is: 2.391861
+
+ temperature is: 2.391362
+
+ temperature is: 2.390868
+
+ temperature is: 2.390380
+
+ temperature is: 2.389897
+
+ temperature is: 2.389419
+
+ temperature is: 2.388947
+
+ temperature is: 2.388480
+
+ temperature is: 2.388019
+
+ temperature is: 2.387563
+
+ temperature is: 2.387112
+
+ temperature is: 2.386667
+
+ temperature is: 2.386228
+
+ temperature is: 2.385794
+
+ temperature is: 2.385365
+
+ temperature is: 2.384942
+
+ temperature is: 2.384524
+
+ temperature is: 2.384112
+
+ temperature is: 2.383705
+
+ temperature is: 2.383304
+
+ temperature is: 2.382909
+
+ temperature is: 2.382519
+
+ temperature is: 2.382134
+
+ temperature is: 2.381756
+
+ temperature is: 2.381382
+
+ temperature is: 2.381015
+
+ temperature is: 2.380653
+
+ temperature is: 2.380296
+
+ temperature is: 2.379946
+
+ temperature is: 2.379601
+
+ temperature is: 2.379261
+
+ temperature is: 2.378928
+
+ temperature is: 2.378600
+
+ temperature is: 2.378277
+
+ temperature is: 2.377961
+
+ temperature is: 2.377650
+
+ temperature is: 2.377345
+
+ temperature is: 2.377045
+
+ temperature is: 2.376752
+
+ temperature is: 2.376464
+
+ temperature is: 2.376182
+
+ temperature is: 2.375905
+
+ temperature is: 2.375635
+
+ temperature is: 2.375370
+
+ temperature is: 2.375111
+
+ temperature is: 2.374858
+
+ temperature is: 2.374611
+
+ temperature is: 2.374370
+
+ temperature is: 2.374134
+
+ temperature is: 2.373905
+
+ temperature is: 2.373681
+
+ temperature is: 2.373464
+
+ temperature is: 2.373252
+
+ temperature is: 2.373046
+
+ temperature is: 2.372846
+
+ temperature is: 2.372652
+
+ temperature is: 2.372464
+
+ temperature is: 2.372282
+
+ temperature is: 2.372106
+
+ temperature is: 2.371936
+
+ temperature is: 2.371772
+
+ temperature is: 2.371614
+
+ temperature is: 2.371462
+
+ temperature is: 2.371316
+
+ temperature is: 2.371177
+
+ temperature is: 2.371043
+
+ temperature is: 2.370915
+
+ temperature is: 2.370794
+
+ temperature is: 2.370679
+
+ temperature is: 2.370569
+
+ temperature is: 2.370466
+
+ temperature is: 2.370369
+
+ temperature is: 2.370278
+
+ temperature is: 2.370194
+
+ temperature is: 2.370115
+
+ temperature is: 2.370043
+
+ temperature is: 2.369977
+
+ temperature is: 2.369917
+
+ temperature is: 2.369864
+
+ temperature is: 2.369817
+
+ temperature is: 2.369776
+
+ temperature is: 2.369741
+
+ temperature is: 2.369712
+
+ temperature is: 2.369690
+
+ temperature is: 2.369674
+
+ temperature is: 2.369665
+
+ temperature is: 2.369662

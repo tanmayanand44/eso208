@@ -1,0 +1,7 @@
+Interpolated values of y* at given x* 
+Natural Cubic Spline: 
+-1.0000 20.9004
+-0.5000 8.5224
+0.0000 2.2837
+0.5000 0.1379
+1.0000 0.0385

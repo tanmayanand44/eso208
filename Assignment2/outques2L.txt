@@ -1,0 +1,2 @@
+
+power method output: largest eigen value is: 5.302776

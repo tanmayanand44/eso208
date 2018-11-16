@@ -1,0 +1,8 @@
+
+ output: solution is: 1.000000
+
+ output: solution is: 1.000000
+
+ output: solution is: 1.000000
+
+ output: solution is: 1.000000

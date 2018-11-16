@@ -1,0 +1,18 @@
+
+ inverse is: 0.150829
+
+ inverse is: -0.088502
+
+ inverse is: 0.059404
+
+ inverse is: -0.088502
+
+ inverse is: 0.223898
+
+ inverse is: -0.061002
+
+ inverse is: 0.059404
+
+ inverse is: -0.061002
+
+ inverse is: 0.152371
